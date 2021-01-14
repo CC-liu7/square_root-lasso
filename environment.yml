@@ -1,5 +1,6 @@
- dependencies:
- - python=3
+  
+dependencies:
+  - python=3
   - pip:
     - spacy
     - ipykernel
@@ -11,4 +12,3 @@
     - thinc
     - picos
     - math
-    
